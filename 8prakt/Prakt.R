@@ -1,0 +1,1 @@
+download.file("https://raw.githubusercontent.com/qwerty29544/RpracticeBook/master/2Data/01FlatTables/ECG_yurchenkov.txt", destfile = "data.txt")
